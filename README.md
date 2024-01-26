@@ -1,0 +1,1 @@
+This is for the tamid senior engineer application process. I chose challenges 1 and 3, with the challege 1 being written in java script. main.js is challenge 1, Debug.java is challenge 3.
